@@ -19,7 +19,7 @@ public class SURF {
         int[] dimensions = runTopicModel(util, model,iter);
         
         Model m = util.readModel("output" + File.separator + model + File.separator + "model_TA"+File.separator);
-        int[][] testDocs = util.readTestJSONDocs("data/TripAdvisorJson/sample");
+        int[][] testDocs = util.readTestJSONDocs("data/TripAdvisorJson/json");// Data storage location before ;data/TripAdvisorJson/sample
         double likelihood = evaluateTopicModel(m,testDocs);
         System.out.println("perplexity = "+likelihood);//*/
         
@@ -172,7 +172,7 @@ public class SURF {
     }
     
     public static void main(String args[]) throws InterruptedException {
-        String modelName = "ATSNonParam";
+        String modelName = "AuthorATS";// 更改算法名称 原ATSNonParam
         SURF.modelranking(null, modelName, 20);
         System.out.println("Finished building model for: " + modelName);
     }

@@ -1,0 +1,362 @@
+Background Words :
+	hotel	0.07348168752897542
+	seattle	0.03859527121001391
+	staff	0.025150672229949003
+	stay	0.01935558646267965
+	parking	0.017964765878535002
+	breakfast	0.016110338433008808
+	not	0.01205377839592026
+	price	0.010778859527121001
+	front	0.010778859527121001
+Aspect 0:
+Topic 0:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 1:
+Sentiment 0:
+	great	0.022858401952063463
+	good	0.020410161828672158
+	room	0.016329761623019988
+	night	0.015513681581889554
+	stay	0.012249361417367816
+	downtown	0.012249361417367816
+	rooms	0.011433281376237382
+	location	0.011433281376237382
+	time	0.011433281376237382
+	stayed	0.010617201335106949
+Sentiment 1:
+Sentiment 2:
+	hotel	0.05368321537164321
+	room	0.0409075810613997
+Topic 2:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 3:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 4:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 5:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 6:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 7:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 8:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 9:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 10:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Aspect 1:
+Topic 0:
+Sentiment 0:
+	comfortable	0.28766560542261477
+Sentiment 1:
+	room	0.1327904901747262
+	clean	0.040052832362632344
+	view	0.020381207978248807
+	space	0.01546330188215292
+	nice	0.014760743868424938
+	needle	0.014058185854696953
+	great	0.012653069827240987
+	small	0.011950511813513002
+	large	0.01124795379978502
+	free	0.010545395786057035
+	night	0.010545395786057035
+Sentiment 2:
+	bed	0.1502046026204152
+	rooms	0.10515448436385479
+	bathroom	0.056350189585914326
+	shower	0.04884183654315426
+	tv	0.04508766002177422
+Topic 1:
+Sentiment 0:
+	room	0.021214146710833003
+	great	0.01948761459856895
+	needle	0.017267787597086602
+	space	0.016527845263259153
+	good	0.016281197818650003
+	breakfast	0.015541255484822549
+	location	0.013814723372558499
+	desk	0.012088191260294447
+	place	0.011101601481857846
+	night	0.010115011703421247
+Sentiment 1:
+Sentiment 2:
+	hotel	0.058801221154028485
+	square	0.028461990632762574
+	staff	0.0208771830024461
+	room	0.0208771830024461
+	pioneer	0.0208771830024461
+	nice	0.01898098109486698
+Topic 2:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 3:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 4:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 5:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 6:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 7:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 8:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 9:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 10:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Aspect 2:
+Topic 0:
+Sentiment 0:
+Sentiment 1:
+	location	0.03749394881084373
+	hotel	0.031247560004372475
+	downtown	0.02968596280275466
+	market	0.02656276839951903
+	space	0.021877976794665584
+	needle	0.02031637959304777
+	waterfront	0.02031637959304777
+	place	0.018754782391429956
+	bus	0.018754782391429956
+	easy	0.017193185189812138
+	walking	0.015631587988194324
+	pike	0.015631587988194324
+	short	0.015631587988194324
+Sentiment 2:
+	walk	0.33026071404003576
+	blocks	0.08261677099814267
+Topic 1:
+Sentiment 0:
+	room	0.028571142194179527
+	great	0.01955025884923598
+	seattle	0.017044457920084997
+	free	0.016042137548424602
+	western	0.014538656990934014
+	stay	0.014037496805103817
+	clean	0.01353633661927362
+	square	0.01353633661927362
+	location	0.013035176433443423
+	stayed	0.012534016247613225
+	pioneer	0.01203285606178303
+	good	0.011531695875952833
+	area	0.011030535690122635
+	night	0.011030535690122635
+	space	0.010529375504292438
+	needle	0.010529375504292438
+	helpful	0.010028215318462241
+	service	0.010028215318462241
+Sentiment 1:
+Sentiment 2:
+	breakfast	0.027541969219044393
+	hotel	0.027541969219044393
+	clean	0.02542498465186189
+Topic 2:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 3:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 4:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 5:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 6:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 7:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 8:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 9:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 10:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Aspect 3:
+Topic 0:
+Sentiment 0:
+	helpful	0.28346224242782075
+	friendly	0.24803684241601226
+Sentiment 1:
+	front	0.060653188180404355
+Sentiment 2:
+	staff	0.22560893734726215
+	desk	0.09133388833686924
+	service	0.03225286677229637
+Topic 1:
+Sentiment 0:
+	room	0.03227910448262994
+	hotel	0.024210168876098136
+	breakfast	0.01748605587065496
+	clean	0.01580502761929417
+	rooms	0.014796410668477694
+	good	0.014123999367933378
+	location	0.012442971116572586
+	downtown	0.012106765466300426
+	stayed	0.010425737214939635
+	space	0.010089531564667477
+	western	0.010089531564667477
+Sentiment 1:
+Sentiment 2:
+	hotel	0.042078166798458876
+	great	0.02525362989383717
+	people	0.020206268822450663
+	pioneer	0.020206268822450663
+	nice	0.018523815131988492
+	square	0.01684136144152632
+Topic 2:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 3:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 4:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 5:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 6:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 7:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 8:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 9:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 10:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Aspect 4:
+Topic 0:
+Sentiment 0:
+Sentiment 1:
+	breakfast	0.07510526487580377
+	good	0.06204915624898
+Sentiment 2:
+	breakfast	0.06104119310306592
+Topic 1:
+Sentiment 0:
+	room	0.03796644596400066
+	great	0.01578114446575329
+	good	0.014302124365870134
+	night	0.014302124365870134
+	stayed	0.01380911766590908
+	clean	0.013316110965948029
+	location	0.012330097566025924
+	day	0.012330097566025924
+	place	0.01183709086606487
+	staff	0.011344084166103819
+	square	0.011344084166103819
+	downtown	0.010358070766181714
+Sentiment 1:
+Sentiment 2:
+	hotel	0.04327460954398318
+	room	0.026865760699315306
+	walk	0.02388233363664842
+	space	0.022390620105314975
+	needle	0.01940719304264809
+	good	0.016423765979981204
+	people	0.016423765979981204
+	nice	0.01493205244864776
+Topic 2:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 3:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 4:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 5:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 6:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 7:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 8:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 9:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:
+Topic 10:
+Sentiment 0:
+Sentiment 1:
+Sentiment 2:

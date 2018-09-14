@@ -124,7 +124,7 @@ public class Helper {
                 line = br.readLine();
             }
         } catch (IOException e) {
-            System.out.println("Collocation file not found!");
+            System.out.println("Collocation file not found!");//
         }
         return collocations;
     }
